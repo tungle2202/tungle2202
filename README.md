@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Hello friends... "Hello friends"? That's lame 😒</em><br>
-  <em>Maybe I should give you a name, but that's a slippery slopee</em><br>
+  <em>Maybe I should give you a name, but that's a slippery slope</em><br>
   <em>Can't believe you really read me, lol.</em>
 </p>
 
