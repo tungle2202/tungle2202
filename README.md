@@ -8,7 +8,7 @@
 
 ## `whoami`
 
-I'm Mr. Nobody with no specific drive. I do everything, and do nothing well, but yeah, love is love they said.
+I'm Mr. Nobody with no specific drive. I do everything (that I did), and do nothing well, but yeah, love is love they said.
 
 ## `ls`
 
@@ -30,4 +30,14 @@ Ooh, and if anything that I put on my profile doesn't work on your Windows syste
 Some of it won't work on a Linux system either, cuz i dropped it before it actually works...
 
 ## What do I want to accomplish by all of this?
-<p align="center">"i  w a n t e d  t o  s a v e  t h e  w o r l d"</p>
+
+```text
+     _____                       _           _   _                                _   _                               _     _ 
+    |_   _|                     | |         | | | |                              | | | |                             | |   | |
+      | |   __      ____ _ _ __ | |_ ___  __| | | |_ ___    ___  __ ___   _____  | |_| |__   ___  __      _____  _ __| | __| |
+      | |   \ \ /\ / / _` | '_ \| __/ _ \/ _` | | __/ _ \  / __|/ _` \ \ / / _ \ | __| '_ \ / _ \ \ \ /\ / / _ \| '__| |/ _` |
+     _| |_   \ V  V / (_| | | | | ||  __/ (_| | | || (_) | \__ \ (_| |\ V /  __/ | |_| | | |  __/  \ V  V / (_) | |  | | (_| |
+     \___/    \_/\_/ \__,_|_| |_|\__\___|\__,_|  \__\___/  |___/\__,_| \_/ \___|  \__|_| |_|\___|   \_/\_/ \___/|_|  |_|\__,_|
+
+```
+
