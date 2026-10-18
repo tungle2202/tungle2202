@@ -8,15 +8,15 @@
 
 ## `whoami`
 
-I'm Mr. Nobody with no specific drive. I do everything (that I did), and do nothing well, but yeah, love is love they said.
+I'm Mr. Nobody with no specific drive. I do everything (that I do, not the real 'everything'), and do nothing well, but yeah, love is love they said.
 
-## `ls`
+## `My so-called 'works'`
 
 The landfill-like-mess you see right here is called "repository", yes, that 'repository' that you're thinking about.
 
 Feel free to fork it if you like, or feel free to yell *"who the hell wrote all of this stupid shit"* too. I appreciate it. 🗑️✨
 
-## `printenv $SETUP`
+## `My setup`
 
 I mainly do everything on a Linux system **(I use Arch, btw, lol)**, powered by:
 * **Shell:** zsh
