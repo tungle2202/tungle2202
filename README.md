@@ -16,7 +16,7 @@ The landfill-like-mess you see right here is called "repository", yes, that 'rep
 
 Feel free to fork it if you like, or feel free to yell *"who the hell wrote all of this stupid shit"* too. I appreciate it. 🗑️✨
 
-## `which $SETUP`
+## `printenv $SETUP`
 
 I mainly do everything on a Linux system **(I use Arch, btw, lol)**, powered by:
 * **Shell:** zsh
