@@ -10,24 +10,24 @@
 
 I'm Mr. Nobody with no specific drive. I do everything (that I do, not the real 'everything'), and do nothing well, but yeah, love is love they said.
 
-## `My so-called 'works'`
+## `My so-called "works"`
 
-The landfill-like-mess you see right here is called "repository", yes, that 'repository' that you're thinking about.
+The landfill-like-mess you see right here is called a "repository", yes, that 'repository' that you're thinking about.
 
 Feel free to fork it if you like, or feel free to yell *"who the hell wrote all of this stupid shit"* too. I appreciate it. 🗑️✨
 
 ## `My setup`
 
 I mainly do everything on a Linux system **(I use Arch, btw, lol)**, powered by:
-* **Shell:** zsh
-* **WM:** Sway
-* **Kernel:** Linux_zen
+- **Shell:** zsh
+- **WM:** Sway
+- **Kernel:** Linux_zen
 
 Yeah, I don't even know what I am trying to say here, just want the profile not to look like a rookie's profile (I am one tho, but you know, *"fake it till you make it"* they said).
 
-Ooh, and if anything that I put on my profile doesn't work on your Windows system, it might be because it wasn't tested on windows. *it worked on my computer*
+Ooh, and if anything that I put on my profile doesn't work on your Windows system, it might be because it wasn't tested on Windows. *It worked on my computer.*
 
-Some of it won't work on a Linux system either, cuz i dropped it before it actually works...
+Some of it won't work on a Linux system either, cuz I dropped it before it actually works...
 
 ## What do I want to accomplish by all of this?
 
